@@ -1,0 +1,28 @@
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\ST10436847 PROG6221 PART.2_CHATBOT.exe.config
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\ST10436847 PROG6221 PART.2_CHATBOT.exe
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\ST10436847 PROG6221 PART.2_CHATBOT.pdb
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\Microsoft.Win32.Registry.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Asio.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Core.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Midi.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Wasapi.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.WinForms.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.WinMM.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\System.Security.AccessControl.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\Microsoft.Win32.Registry.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Asio.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Core.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Midi.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.Wasapi.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.WinForms.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\NAudio.WinMM.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\System.Security.AccessControl.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\obj\Debug\ST10436847 PROG6221 PART.2_CHATBOT.csproj.AssemblyReference.cache
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\obj\Debug\ST10436847 PROG6221 PART.2_CHATBOT.csproj.CoreCompileInputs.cache
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\obj\Debug\ST104368.FFE3C7D8.Up2Date
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\obj\Debug\ST10436847 PROG6221 PART.2_CHATBOT.exe
+C:\Users\RC_Student_lab\source\repos\ST10436847 PROG6221 PART.2_CHATBOT\obj\Debug\ST10436847 PROG6221 PART.2_CHATBOT.pdb
